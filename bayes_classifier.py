@@ -1,7 +1,7 @@
 # My imports
 from nltk.tokenize import RegexpTokenizer
-from nltk.tokenize import word_tokenize #
-from nltk.stem.wordnet import WordNetLemmatizer #
+from nltk.tokenize import word_tokenize
+from nltk.stem.wordnet import WordNetLemmatizer
 from nltk.stem.porter import PorterStemmer
 from nltk.corpus import stopwords
 import nltk
